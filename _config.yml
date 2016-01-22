@@ -1,0 +1,28 @@
+name: Jeroens test
+favicon: null
+layout_spectrum: 0.8263511324767023
+typography_spectrum: 0.718086657114327
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6808933061547577
+  lightness: 0.15699634025804698
+  saturation: 0.7296520562376827
+  rhythmicContrast: 0.8427513670176268
+purpose: []
